@@ -1,0 +1,50 @@
+﻿model,msrp_usd,horsepower,fuel_economy_combined,engine_type,transmission,drivetrain,dimensionsIn_L_W_H_ inch),seating_capacity,sales_q1_2024,market_share,air_suspension,panoramic_sunroof
+BMW X7,82895,375HP,22,Turbocharged,8-speed automatic,AWD,203.6/78.7/72.2,7,6956,2.48%,yes,yes
+BMW XM,159995,644HP,14,Twin-Turbocharged (hybrid),8-speed automatic,AWD,201.2/78.9/69.1,5,541,0.19%,no,yes
+Cadillac Escalade,83890,420HP,16,Supercharged,10-speed automatic,RWD,211.9/81.1/76.7,7,9135,3.25%,yes,yes
+Infiniti QX80,76145,400HP,16,Turbocarged,7-speed automatic,RWD,210.2/79.9/75.8,7,2472,0.88%,yes,no
+Jeep Grand Wagoneer,93945,510HP,17,Twin-Turbocharged,8-speed automatic,4WD,214.7/83.6/75.6,7,3550,1.26%,yes,yes
+Land Rover Range Rover,109025,395HP,21,Turbocharged,8-speed automatic,AWD,198.9/80.6/73.6,5,4946,1.76%,yes,yes
+Lexus LX,93915,409HP,19,Twin-Turbocharged,10-speed automatic,4WD,200.6/78.3/74.2,5,1697,0.60%,yes,no
+Lincoln Navigator,85260,440HP,18,Twin-Turbocharged,10-speed automatic,4WD,210/79.9/76.3,7,3127,1.11%,no,yes
+Mercedes Benz G,144150,416HP,14,Turbocharged,9-speed automatic,AWD,189.7/74.5/77.5,5,3007,1.07%,no,no
+Mercedes Benz GLS,88150,375HP,21,Turbocharged (hybrid),9-speed automatic,AWD,205/79.9/71.8,7,7457,2.65%,yes,yes
+Acura MDX,51500,290HP,22,Turbocharged,10-speed automatic,FWD,198.4/78.7/67.1,7,11141,3.97%,yes,yes
+Alfa Romeo Tonale,45440,285HP,29,Turbochargd (hybrid),6-speed automatic,AWD,178.3/72.4/63.2,5,727,0.26%,no,no
+Audi Q7,60695,261HP,21,Turbocharged,8-speed automatic,AWD,199.3/77.6/68.5,7,4205,1.50%,yes,yes
+Audi Q8,74895,335HP,19,Turbocharged,8-speed automatic,AWD,196.6/78.5/67.2,5,1796,0.64%,yes,yes
+BMW X5,66195,375HP,25,Turbocharged (hybrid),8-speed automatic,RWD,194.3/78.9/69.5,5,14923,5.31%,yes,yes
+BMW X6,74895,375HP,24,Turbocharged (hybrid),8-speed automatic,AWD,195/78.9/66.9,5,1535,0.55%,yes,yes
+Cadillac XT5,45290,235HP,24,Turbocharged,9-speed automatic,FWD,189.6/74.9/66.1,5,6275,2.23%,no,yes
+Cadillac XT6,50190,235HP,23,Turbocharged,9-speed automatic,FWD,198.5/77.3/69.9,7,4606,1.64%,no,yes
+Gensis GV80,59050,300HP,22,Turbocharged,8-speed automatic,AWD,194.7/77.8/67.5,5,4768,1.70%,no,yes
+Jaguar F-Pace,58375,246HP,24,Turbocharged,8-speed automatic,AWD,186.9/81.5/65.5,5,1574,0.56%,no,yes
+Land Rover Defender,58025,296HP,19,Turbocharged,8-speed automatic,4WD,180.5/79.1/77.7,5,5706,2.03%,yes,yes
+Land Rover Dicovery,61525,296HP,21,Turbocharged,8-speed automatic,4WD,195.1/78.7/74.3,7,563,0.20%,yes,yes
+Land Rover Range Rover Sport,85225,355HP,22,Turbocharged,8-speed automatic,4WD,194.7/80.6/71.7,5,4116,1.46%,yes,yes
+Land Rover Range Rover Velar,62875,247HP,23,Turbocharged,8-speed automatic,4WD,188.9/80.3/66.2,5,1101,0.39%,yes,yes
+Lexus GX,64250,349HP,17,Twin-Turbocharged,10-speed automatic,4WD,197.1/83.2/75.6,7,3858,1.37%,no,no
+Lexus RX,49950,275HP,25,Turbocharged,8-speed automatic,FWD,192.5/75.6/67.3,5,26473,9.42%,no,yes
+Lexus TX,55050,275HP,23,Turbocharged,8-speed automatic,RWD,203.1/78.3/70.1,7,9956,3.54%,no,yes
+Lincoln Aviator,54735,400HP,21,Twin-Turbocharged,10-speed automatic,RWD,199.3/82.3/69.6,7,6250,2.22%,no,yes
+Lincoln Nautilus,52010,250HP,24,Turbocharged,8-speed automatic,AWD,193.2/79.8/68.2,5,9231,3.29%,no,yes
+Mercedes Benz GLE,63800,255HP,23,Turbocharged,9-speed automatic,AWD,193.9/76.7/70.8,5,15096,5.37%,yes,yes
+Porsche Cayenne,80850,348HP,19,Turbocharged,8-speed automatic,AWD,194.1/78.1/66.8,5,3262,1.16%,yes,yes
+Volvo XC90,57895,247HP,24,Turbocharged,8-speed automatic,AWD,195/79.1/69.9,7,9489,3.38%,yes,yes
+Alfa Romeo Stelvio,47545,280HP,24,Turbocharged,8-speed automatic,AWD,184.6/74.9/66,5,918,0.33%,no,yes
+Audi Q3,38595,184HP,25,Turbocharged,8-speed automatic,AWD,176.6/72.8/62.9,5,5274,1.88%,no,yes
+Audi Q5,46495,201HP,26,Turbocharged,7-Auto-Shift Manual,AWD,184.3/74.5/65.5,5,11473,4.08%,no,yes
+BMW X1,41495,241HP,28,Turbocharged,7-Auto-Shift Manual,AWD,177.2/72.6/64.6,5,6013,2.14%,no,yes
+BMW X2,42995,241HP,28,Turbocharged,7-Auto-Shift Manual,AWD,179.3/72.6/62.6,5,560,0.20%,no,yes
+BMW X3,47895,248HP,25,Turbocharged,8-speed automatic,RWD,185.9/74.4/66,5,16489,5.87%,no,yes
+Cadillac XT4,39090,235HP,26,Turbocharged,9-speed automatic,FWD,181.1/76.7/63.2,5,4879,1.74%,no,yes
+Infiniti QX50,42350,268HP,26,Turbocharged,1 CVT,FWD,184.7/74.9/66,5,2569,0.91%,no,yes
+Infiniti QX55,51500,268HP,25,Turbocharged,1 CVT,AWD,186.3/74.9/63.8,5,1095,0.39%,no,yes
+Jaguar E-Pace,50775,246HP,23,Turbocharged,9-speed automatic,AWD,173/74.7/64.9,5,140,0.05%,no,yes
+Land Rover Dicovery Sport,50175,246HP,20,Turbocharged,9-speed automatic,4WD,181/75/68,5,350,0.12%,no,yes
+Land Rover Range Rover Evoque,51175,246HP,22,Turbocharged,9-speed automatic,AWD,172.1/78.6/64.9,5,705,0.25%,no,yes
+Lexus NX,40605,203HP,28,Turbocharged,8-speed automatic,FWD,183.5/73.4/65.4,5,17119,6.09%,no,yes
+Lincoln Corsair,40385,250HP,25,Turbocharged,8-speed automatic,FWD,181.4/74.3/64.1,5,6286,2.24%,no,yes
+Mercedes Benz GLB,45800,221HP,28,Turbocharged,8-Auto-Shift-Manual,FWD,182.4/72.2/65.3,5,5566,1.98%,no,yes
+Porsche Macan,62550,261HP,21,Turbocharged,7-Auto-Shift Manual,AWD,186.1/76.1/63.8,5,5670,2.02%,yes,yes
+Infiniti QX60,51000,295HP,23,Turbocharged,9-speed automatic,FWD,198.2/78/69.7,7,6333,2.25%,no,yes
